@@ -12,4 +12,4 @@ Requirements
 Windows
 =======
 
-For Windows use Cygwin
+For Windows use Cygwin and get ps2pdf from MikTeX and the epstool from [here](http://pages.cs.wisc.edu/~ghost/gsview/epstool.htm)
